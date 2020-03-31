@@ -1,0 +1,10 @@
+C:\Users\Kuzav\source\repos\Threading\Threading\bin\Debug\Threading.exe.config
+C:\Users\Kuzav\source\repos\Threading\Threading\bin\Debug\Threading.exe
+C:\Users\Kuzav\source\repos\Threading\Threading\bin\Debug\Threading.pdb
+C:\Users\Kuzav\source\repos\Threading\Threading\obj\Debug\Threading.csprojAssemblyReference.cache
+C:\Users\Kuzav\source\repos\Threading\Threading\obj\Debug\Threading.Properties.Resources.resources
+C:\Users\Kuzav\source\repos\Threading\Threading\obj\Debug\Threading.csproj.GenerateResource.cache
+C:\Users\Kuzav\source\repos\Threading\Threading\obj\Debug\Threading.csproj.CoreCompileInputs.cache
+C:\Users\Kuzav\source\repos\Threading\Threading\obj\Debug\Threading.exe
+C:\Users\Kuzav\source\repos\Threading\Threading\obj\Debug\Threading.pdb
+C:\Users\Kuzav\source\repos\Threading\Threading\obj\Debug\Threading.Threading.resources

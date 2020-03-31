@@ -1,0 +1,15 @@
+C:\Users\Kuzav\source\repos\Lab\Lab\bin\Debug\Lab.exe.config
+C:\Users\Kuzav\source\repos\Lab\Lab\bin\Debug\Lab.exe
+C:\Users\Kuzav\source\repos\Lab\Lab\bin\Debug\Lab.pdb
+C:\Users\Kuzav\source\repos\Lab\Lab\obj\Debug\Lab.csprojAssemblyReference.cache
+C:\Users\Kuzav\source\repos\Lab\Lab\obj\Debug\MainWindow.g.cs
+C:\Users\Kuzav\source\repos\Lab\Lab\obj\Debug\App.g.cs
+C:\Users\Kuzav\source\repos\Lab\Lab\obj\Debug\Lab_MarkupCompile.cache
+C:\Users\Kuzav\source\repos\Lab\Lab\obj\Debug\Lab_MarkupCompile.lref
+C:\Users\Kuzav\source\repos\Lab\Lab\obj\Debug\MainWindow.baml
+C:\Users\Kuzav\source\repos\Lab\Lab\obj\Debug\Lab.g.resources
+C:\Users\Kuzav\source\repos\Lab\Lab\obj\Debug\Lab.Properties.Resources.resources
+C:\Users\Kuzav\source\repos\Lab\Lab\obj\Debug\Lab.csproj.GenerateResource.cache
+C:\Users\Kuzav\source\repos\Lab\Lab\obj\Debug\Lab.csproj.CoreCompileInputs.cache
+C:\Users\Kuzav\source\repos\Lab\Lab\obj\Debug\Lab.exe
+C:\Users\Kuzav\source\repos\Lab\Lab\obj\Debug\Lab.pdb

@@ -1,0 +1,15 @@
+C:\Users\Kuzav\source\repos\Lab\Lab\bin\Debug\Serialization.exe.config
+C:\Users\Kuzav\source\repos\Lab\Lab\bin\Debug\Serialization.exe
+C:\Users\Kuzav\source\repos\Lab\Lab\bin\Debug\Serialization.pdb
+C:\Users\Kuzav\source\repos\Lab\Lab\obj\Debug\Serialization.csprojAssemblyReference.cache
+C:\Users\Kuzav\source\repos\Lab\Lab\obj\Debug\MainWindow.g.cs
+C:\Users\Kuzav\source\repos\Lab\Lab\obj\Debug\App.g.cs
+C:\Users\Kuzav\source\repos\Lab\Lab\obj\Debug\Serialization_MarkupCompile.cache
+C:\Users\Kuzav\source\repos\Lab\Lab\obj\Debug\Serialization_MarkupCompile.lref
+C:\Users\Kuzav\source\repos\Lab\Lab\obj\Debug\MainWindow.baml
+C:\Users\Kuzav\source\repos\Lab\Lab\obj\Debug\Serialization.g.resources
+C:\Users\Kuzav\source\repos\Lab\Lab\obj\Debug\Serialization.Properties.Resources.resources
+C:\Users\Kuzav\source\repos\Lab\Lab\obj\Debug\Serialization.csproj.GenerateResource.cache
+C:\Users\Kuzav\source\repos\Lab\Lab\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\Kuzav\source\repos\Lab\Lab\obj\Debug\Serialization.exe
+C:\Users\Kuzav\source\repos\Lab\Lab\obj\Debug\Serialization.pdb

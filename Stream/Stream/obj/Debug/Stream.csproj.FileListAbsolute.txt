@@ -1,0 +1,7 @@
+C:\Users\Kuzav\source\repos\Stream\Stream\bin\Debug\Stream.exe.config
+C:\Users\Kuzav\source\repos\Stream\Stream\bin\Debug\Stream.exe
+C:\Users\Kuzav\source\repos\Stream\Stream\bin\Debug\Stream.pdb
+C:\Users\Kuzav\source\repos\Stream\Stream\obj\Debug\Stream.csprojAssemblyReference.cache
+C:\Users\Kuzav\source\repos\Stream\Stream\obj\Debug\Stream.csproj.CoreCompileInputs.cache
+C:\Users\Kuzav\source\repos\Stream\Stream\obj\Debug\Stream.exe
+C:\Users\Kuzav\source\repos\Stream\Stream\obj\Debug\Stream.pdb
